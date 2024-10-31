@@ -1,0 +1,83 @@
+# Configuración básica del sitio
+title               : carlosnikozurita Portfolio
+description         : "Portfolio personal de Carlos Niko Zurita - Consultor ambiental y SIG."
+baseurl             : ""  # Vacío para GitHub Pages en <username>.github.io
+repository          : carlosnikozurita/carlosnikozurita.github.io
+remote_theme        : yousinix/portfolYOU  # Tema remoto
+open_new_tab        : false  # Abrir enlaces externos en una nueva pestaña
+
+# Plugins
+plugins:
+  - jemoji  # Para emojis en publicaciones y páginas
+
+# Información del autor
+author:
+  name              : Carlos Niko Zurita
+  image             : "https://i.imgur.com/uyDNQnn.jpg"
+  email             : contacto@tudominio.com
+  github            : carlosnikozurita
+  linkedin          : carlosnikozurita
+  twitter           : carlosnikozurita
+  # Otros: para agregar enlaces de redes sociales, descomenta y reemplaza con tu nombre de usuario
+  # behance           : tu_nombre_usuario
+  # dribbble          : tu_nombre_usuario
+  # instagram         : tu_nombre_usuario
+  # youtube           : tu_nombre_usuario
+  # soundcloud        : tu_nombre_usuario
+
+# Configuración de la barra de navegación
+nav_exclude:
+  - pages/tags.html
+  - pages/404.html
+  - pages/index.md
+  - documentation/partials/**  # Para la documentación
+
+# Configuración para publicaciones
+permalink: /blog/:title  # Estructura de URL para entradas de blog
+collections:
+  projects:
+    output: true
+    permalink: /projects/:name
+  # Desactiva elementos solo usados en la documentación
+  elements:
+    output: false  
+
+# Configuración de Disqus (comentarios)
+disqus:
+  shortname: tu-disqus-shortname
+
+# Configuración de Google Analytics
+analytics:
+  enabled: false  # Cambia a true para habilitar Google Analytics
+  google:
+    tracking_id: "TU_ID_DE_GOOGLE_ANALYTICS"
+
+# Configuración para "Buy Me a Coffee"
+buymeacoffee:
+  enabled: false  # Cambia a true si deseas habilitarlo
+  username: tu_nombre_usuario
+  color: "#007bff"
+  message: "Gracias por tu visita."
+  description: "Apóyame en Buy Me a Coffee!"
+
+# Valores predeterminados para colecciones
+defaults:
+  - scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "page"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      comments: false  # Cambia a true si deseas comentarios en las publicaciones
+
+# Archivos y carpetas excluidos del procesamiento de Jekyll
+exclude:
+  - README.md
+  - CONTRIBUTING.md
+  - LICENSE
+  - "*.log"  # Excluir todos los archivos .log
+  - documentation/  # Carpeta de documentación
+  - _elements/  # Elementos solo para documentación
