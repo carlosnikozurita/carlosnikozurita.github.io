@@ -15,10 +15,10 @@ Cuento con más de 6 años de experiencia en consultoría ambiental, trabajando 
 
 Desde 2022, me desempeño como consultor freelance en la región de Los Lagos, Chile, evaluando proyectos de inversión dentro del Sistema de Evaluación de Impacto Ambiental (SEIA) y brindando asesorías a propietarios rurales. Entre mis proyectos recientes se incluyen estudios de flora para parques eólicos, monitoreo ambiental de colisión de avifauna, planes de manejo forestal y estudios de material particulado para industrias de la región.
 
-Habilidades técnicas clave:
-Programación y Análisis: Python (Pandas), R, SQL y visualización de datos (Tableau)
-SIG y Cartografía: ArcGIS, QGIS, análisis geoespacial y procesamiento de imágenes satelitales
-Gestión de Proyectos Ambientales: Restauración, reforestación y conservación en proyectos de FAO/CONAF, con un enfoque en manejo forestal sustentable
+**Habilidades técnicas clave**:
+-- Programación y Análisis: Python (Pandas), R, SQL y visualización de datos (Tableau)
+-- SIG y Cartografía: ArcGIS, QGIS, análisis geoespacial y procesamiento de imágenes satelitales
+-- Gestión de Proyectos Ambientales: Restauración, reforestación y conservación en proyectos de FAO/CONAF, con un enfoque en manejo forestal sustentable
 
 Me motiva explorar nuevos desafíos que profundicen mis conocimientos y que me permitan contribuir a la sostenibilidad ambiental. Actualmente, estoy perfeccionando mis habilidades en análisis de datos.
 
