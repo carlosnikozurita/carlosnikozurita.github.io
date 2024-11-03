@@ -1,11 +1,19 @@
-- name: HTML5/CSS3
-  percentage: 90
-  color: danger
-
-- name: Go
+- name: QGIS
   percentage: 80
-  color:
+  color: secondary
+
+- name: ArcGIS ArcMap
+  percentage: 80
+  color: secondary
 
 - name: Python
-  percentage: 70
+  percentage: 60
   color: secondary
+  
+- name: R
+  percentage: 40
+  color: danger
+
+- name: SQL
+  percentage: 40
+  color: danger
