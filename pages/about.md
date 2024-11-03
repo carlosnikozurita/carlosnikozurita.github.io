@@ -11,9 +11,9 @@ Hola! Mi nombre es **Carlos Zurita Araya** :wave:,<br>
 
 Soy Ingeniero en Conservación de Recursos Naturales, especializado en Ecosistemas Forestales y Análisis de Datos Ambientales, con un enfoque hacia la conservación de la biodiversidad y la innovación tecnológica.
 
-Cuento con más de 6 años de experiencia en consultoría ambiental, trabajando en flora y vegetación, manejo de ecosistemas y análisis geoespacial de datos, apoyando la toma de decisiones en proyectos de inversión y en programas de servicios públicos. Últimamente he realizado estudios de línea base de flora, catastros de arbolado urbano, planes de manejo forestal, monitoreos ambientales, y análisis geográficos.
+Cuento con más de 6 años de experiencia en consultoría ambiental, trabajando como especialista en flora y vegetación, manejo de ecosistemas y analista SIG (cartografía y análisis espacial). He apoyado la toma de decisiones en proyectos de inversión y en programas de servicios públicos.
 
-Desde 2022, me desempeño como consultor freelance en la región de Los Lagos, Chile, evaluando proyectos de inversión dentro del Sistema de Evaluación de Impacto Ambiental (SEIA) y brindando asesorías a propietarios rurales. Entre mis proyectos recientes se incluyen estudios de flora para parques eólicos, monitoreo ambiental de colisión de avifauna, planes de manejo forestal y estudios de material particulado para industrias de la región.
+Desde 2022, me desempeño como consultor freelance en la región de Los Lagos, Chile, evaluando proyectos de inversión dentro del Sistema de Evaluación de Impacto Ambiental (SEIA) y brindando asesorías a propietarios rurales. Entre mis proyectos recientes se incluyen estudios de flora para proyectos de inversión (EIA - DIA), catastros del arbolado en parques urbanos, monitoreo ambiental de colisión de avifauna (cumplimiento RCA), planes de manejo forestal (obras civiles) y estudios de material particulado para industrias de la región.
 
 **Habilidades técnicas clave**:
 -- Programación y Análisis: Python (Pandas), R, SQL y visualización de datos (Tableau)
