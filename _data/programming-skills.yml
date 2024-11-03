@@ -1,14 +1,14 @@
 - name: QGIS
   percentage: 80
-  color: secondary
+  color: info
 
 - name: ArcGIS ArcMap
   percentage: 80
-  color: secondary
+  color: info
 
 - name: Python
   percentage: 60
-  color: secondary
+  color: success
   
 - name: R
   percentage: 40
