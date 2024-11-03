@@ -1,17 +1,24 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Consultor Ambiental
+  from: 2022
+  to: 2024
+  description: Como emprendedor y profesional freelance, he trabajado principalmente en consultoría y asesoría ambiental en el contexto de la evaluación de proyectos de inversión que ingresan al SEIA (DIA y EIA) y del cumplimiento normativo de aquellos que operan con una RCA favorable. Además, he adjudicado y ejecutado exitosamente múltiples licitaciones de servicios públicos y asesorado a propietarios rurales de la región de Los Lagos. Proyectos destacados:
+- Líneas de base de flora y vegetación para parques eólicos, líneas de transmisión eléctrica (LTE) y astilleros. X Región, 2024. Empresas: Mankuk Consulting & Services y Forestmap.
+- Asesoría en estudios de material particulado para una importante empresa láctea. XIV Región, octubre 2023 – julio 2024.
+- Monitoreo de colisión de avifauna en LTE. X-XIV Regiones, 2024. JWM.
+- Planes de manejo forestal para obras civiles en predios particulares. X Región, 2024.
+- Colaboración en investigaciones sobre uso de suelo y calidad de aguas. ULAGOS, 2022 - 2023.
+- Rescate de flora geófita en categoría de conservación para la construcción de LTE. Valparaíso, 2023.
+- Reforestaciones y estudios de prendimiento en predios particulares. X Región, 2022.
+- Apoyo a Emergencia Agrícola INDAP. Purranque, X Región, 2022.
+- Capacitaciones en manejo de residuos y reciclaje. Chiloé, 2022.
+- Encuestas ciudadanas sobre gestión ambiental. Osorno, 2022.
+Tecnologías: Python, Pandas, ArcGIS, MS Office. Usos: análisis y gestión de datos
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+#- title: Software Engineer, Google, UK
+#  from: 2018
+#  to: present
+#  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
+#               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+#               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+#               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
