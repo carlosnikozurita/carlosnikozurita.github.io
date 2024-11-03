@@ -7,7 +7,7 @@ weight: 3
 
 # **About Me**
 
-Hola! Mi nombre es **{{ site.author.name }}** :wave:,<br>
+Hola! Mi nombre es **Carlos Zurita Araya** :wave:,<br>
 
 Soy Ingeniero en Conservación de Recursos Naturales, especializado en Ecosistemas Forestales y Análisis de Datos Ambientales, con una fuerte orientación hacia la conservación de la biodiversidad y la innovación tecnológica.
 
